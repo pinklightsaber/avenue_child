@@ -20,11 +20,14 @@ Revisa archivos y adminitración de plantilla. Realiza una descripción técnica
 	
 *Por ejemplo:  
 ¿Tiene Page Template?  
-	Sí, tiene uno llamado Blog.
+	Sí, tiene uno llamado Blog
+
 ¿Usa plugins por defecto?
 	Sí, ACF, Contact 7 form, wp product
+
 ¿Tiene opciones del tema?  
 	Sí, tiene opciones en theme_options.php
+	
 ¿Cómo se carga la información principal?
 a través de loops
 
